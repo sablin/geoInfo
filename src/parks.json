@@ -1,0 +1,28 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 960,
+          "NAME": "Иркутск",
+          "DESCRIPTIO": "Flat asphalt surface, 5 components"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [52.277131037877695, 104.29369310721509]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1219,
+          "NAME": "Ангарск",
+          "DESCRIPTIO": "Flat asphalt surface, 10 components, City run learn to skateboard programs, City run skateboard camps in summer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [52.50445902013379, 103.92113774687822]
+        }
+      }
+    ]
+  }
